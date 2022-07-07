@@ -5,8 +5,5 @@ h3{
     background-color: red;
 }
 canvas{
-    animation-name: ruveer;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
     border: 2px dashed black;
 }
